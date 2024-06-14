@@ -10,6 +10,5 @@ Necessary packages: opfunu, cec2013lsgo
   pages={},  
   year={2024},  
   publisher={Springer},  
-  doi = {},  
-  note = {Accepted},  
+  doi = {https://doi.org/10.1007/s10586-024-04600-6 },  
 }
