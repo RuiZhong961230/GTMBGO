@@ -17,4 +17,4 @@ This paper proposes an efficient variant of the multiplayer battle game optimize
 }
 
 ## Datasets and Libraries
-CEC benchmarks are provided by opfunu and cec2013lsgo libraries and engineering problems are provided by the enoppy library.
+CEC benchmarks are provided by opfunu==1.0.0 and cec2013lsgo==2.0 libraries, while engineering problems are provided by the enoppy==0.1.1 library.
